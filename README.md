@@ -1,6 +1,6 @@
 # Repository Information
 This is a webpage for UBC's Department of Zoology Biomechanics Journal Club
-URL: https://jas-wong.github.io/ubc-zoology_biomechanics/
+URL: https://jas-wong.github.io/ubc-zoology-biomechanics/
 
 # Table of Contents
 1. Introduction
