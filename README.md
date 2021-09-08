@@ -10,5 +10,4 @@ __What Are My Responsibilities?__ By slightly popular demand, everyone will take
 # Schedule
 We will meet bi-weekly/fortnightly Wednesday at 16:00. 
 | Date | Paper Picker | Paper |
-| :---------------- | :---------------- | :------------------------------------- |
-| Sept 22 2021 | Jasmin | How animals move: An integrative view |
+| :---------------- | :---------------- | :------------------------------------- || Sept 22 2021 | Jasmin | How animals move: An integrative view |
