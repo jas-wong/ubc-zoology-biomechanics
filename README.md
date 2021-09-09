@@ -12,4 +12,4 @@ We will meet bi-weekly/fortnightly Tuesday at 17:00-18:00.
 
 | Date | Paper Picker | Paper |
 | :---------------- | :---------------- | :------------------------------------- |
-| Sept 22 2021 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/How animals move An integrative view.pdf">How Animals Move: An Integrative View (Dickinson et al., 2000)</a> |
+| Sept 21 2021 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/How animals move An integrative view.pdf">How Animals Move: An Integrative View (Dickinson et al., 2000)</a> |
