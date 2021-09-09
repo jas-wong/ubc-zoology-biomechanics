@@ -8,7 +8,7 @@ __How do I Join?__ [Contact me](jas.wong.is@gmail.com) for the Zoom link.
 __What Are My Responsibilities?__ By slightly popular demand, everyone will take turns selecting readings (see the schedule below), and for the most part, everyone will be expected to present a figure and participate in subsequent discussion. 
 
 # Schedule
-We will meet bi-weekly/fortnightly Wednesday at 16:00-17:00.
+We will meet bi-weekly/fortnightly Tuesday at 17:00-18:00.
 
 | Date | Paper Picker | Paper |
 | :---------------- | :---------------- | :------------------------------------- |
