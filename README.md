@@ -11,4 +11,4 @@ __What Are My Responsibilities?__ By slightly popular demand, everyone will take
 We will meet bi-weekly/fortnightly Wednesday at 16:00. 
 | Date | Paper Picker | Paper |
 | :---------------- | :---------------- | :------------------------------------- |
-| Sept 22 2021 | Jasmin | [How animals move: An integrative view](https://github.com/jas-wong/ubc-zoology-biomechanics/papers/How animals move An integrative view.pdf) |
+| Sept 22 2021 | Jasmin | [How animals move: An integrative view](https://github.com/jas-wong/ubc-zoology-biomechanics/blob/main/papers/How%20animals%20move%20An%20integrative%20view.pdf) |
