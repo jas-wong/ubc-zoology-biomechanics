@@ -12,4 +12,4 @@ We will meet bi-weekly/fortnightly Wednesday at 16:00.
 
 | Date | Paper Picker | Paper |
 | :---------------- | :---------------- | :------------------------------------- |
-| Sept 22 2021 | Jasmin | <a href="https://github.com/jas-wong/ubc-zoology-biomechanics/blob/main/papers/How%20animals%20move%20An%20integrative%20view.pdf" download="https://github.com/jas-wong/ubc-zoology-biomechanics/blob/main/papers/How%20animals%20move%20An%20integrative%20view.pd">download this</a> |
+| Sept 22 2021 | Jasmin | [Download my book!](https://github.com/jas-wong/ubc-zoology-biomechanics/blob/main/papers/How%20animals%20move%20An%20integrative%20view.pdf) |
