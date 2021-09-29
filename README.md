@@ -13,4 +13,4 @@ We will meet bi-weekly/fortnightly Tuesday at 17:00-18:00.
 | Date | Paper Picker | Paper |
 | :---------------- | :---------------- | :------------------------------------- |
 | Sept 21 2021 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/How animals move An integrative view.pdf">How Animals Move: An Integrative View (Dickinson et al., 2000)</a> |
-| Oct 5 2021 | Francesca | <a href="/ubc-zoology-biomechanics/papers/Modulation%20of%20%20Flight%20Muscle%20Recruitment%20and%20Wing%20Rotation%20Enables%20Hummingbirds%20to%20Mitigate%20Aeroial%20Roll%20Perturbations.pdf">Modulation of Flight Muscle Recruitment and Wing Rotation Enables Hummingbirds to Mitigate Aerial Roll Perturbations (Ravi et al., 2020)</a> |
+| Oct 5 2021 | Francesca | <a href="https://github.com/jas-wong/ubc-zoology-biomechanics/blob/main/papers/Modulation%20of%20%20Flight%20Muscle%20Recruitment%20and%20Wing%20Rotation%20Enables%20Hummingbirds%20to%20Mitigate%20Aeroial%20Roll%20Perturbations.pdf">Modulation of Flight Muscle Recruitment and Wing Rotation Enables Hummingbirds to Mitigate Aerial Roll Perturbations (Ravi et al., 2020)</a> |
