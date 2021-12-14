@@ -18,3 +18,4 @@ We will meet bi-weekly/fortnightly Tuesday at 17:00-18:00.
 | Nov 2 2021 | Tony | <a href="/ubc-zoology-biomechanics/papers/Using Integrative Biology to Infer Adaptation from Comparisons of Two or a Few Species.pdf">Using Integrative Biology to Infer Adaptation from Comparisons of Two (or a Few) Species (Cox & Logan, 2021)</a> |
 | Nov 16 2021 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/The principles of cascading power limits in small fast biological and engineered systems.pdf">The principles of cascading power limits in small, fast biological and engineered systems (Ilton et al., 2018)</a> |
 | Nov 30 2021 | Francesca | <a href="/ubc-zoology-biomechanics/papers/Passive skeletal muscle can function as an osmotic engine.pdf">Passive skeletal muscle can function as an osmotic engines (Wold et al., 2021)</a> |
+| Dec 14 2021 | Tony | Tony's Paper |
