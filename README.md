@@ -19,3 +19,4 @@ We will meet bi-weekly/fortnightly Tuesday at 17:00-18:00.
 | Nov 16 2021 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/The principles of cascading power limits in small fast biological and engineered systems.pdf">The principles of cascading power limits in small, fast biological and engineered systems (Ilton et al., 2018)</a> |
 | Nov 30 2021 | Francesca | <a href="/ubc-zoology-biomechanics/papers/Passive skeletal muscle can function as an osmotic engine.pdf">Passive skeletal muscle can function as an osmotic engines (Wold et al., 2021)</a> |
 | Dec 14 2021 | Tony | Tony's Paper |
+| Jan 25 2022 | Jolan | <a href="/ubc-zoology-biomechanics/papers/Beyond muscles role of intramuscular connective tissue elasticity and passive stiffness in octopus arm muscle function.pdf">Beyond muscles: role of intramuscular connective tissue elasticity and passive stiffness in octopus arm muscle function (Di Clemente et al., 2021)</a> |
