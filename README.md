@@ -20,4 +20,4 @@ We will meet bi-weekly/fortnightly Tuesday at 17:00-18:00.
 | Nov 30 2021 | Francesca | <a href="/ubc-zoology-biomechanics/papers/Passive skeletal muscle can function as an osmotic engine.pdf">Passive skeletal muscle can function as an osmotic engines (Wold et al., 2021)</a> |
 | Dec 14 2021 | Tony | Tony's Paper |
 | Jan 25 2022 | Jolan | <a href="/ubc-zoology-biomechanics/papers/Beyond muscles role of intramuscular connective tissue elasticity and passive stiffness in octopus arm muscle function.pdf">Beyond muscles: role of intramuscular connective tissue elasticity and passive stiffness in octopus arm muscle function (Di Clemente et al., 2021)</a> |
-| Feb 8 2022 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/Quantifying avian inertial properties using calibrated computed tomography.pdf">Quantifying avian inertial properties using calibrated computed tomography (Durston et al., 2022)</a> |
+| Feb 15 2022 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/Quantifying avian inertial properties using calibrated computed tomography.pdf">Quantifying avian inertial properties using calibrated computed tomography (Durston et al., 2022)</a> |
