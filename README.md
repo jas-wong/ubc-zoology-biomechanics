@@ -22,3 +22,5 @@ We will meet bi-weekly/fortnightly Tuesday at 17:00-18:00.
 | Jan 25 2022 | Jolan | <a href="/ubc-zoology-biomechanics/papers/Beyond muscles role of intramuscular connective tissue elasticity and passive stiffness in octopus arm muscle function.pdf">Beyond muscles: role of intramuscular connective tissue elasticity and passive stiffness in octopus arm muscle function (Di Clemente et al., 2021)</a> |
 | Feb 15 2022 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/Quantifying avian inertial properties using calibrated computed tomography.pdf">Quantifying avian inertial properties using calibrated computed tomography (Durston et al., 2022)</a> |
 | Feb ? 2022 | Francesca | <a </a> |
+| Mar ? 2022 | Tony | <a href="/ubc-zoology-biomechanics/papers/Novel flight style and light wings boost flight
+performance of tiny beetles.pdf">Novel flight style and light wings boost flight performance of tiny beetles (Farsienkov et al., 2022)</a> |
