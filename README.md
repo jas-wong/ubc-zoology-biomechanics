@@ -8,7 +8,7 @@ __How do I Join?__ <a href="mailto:jwong@zoology.ubc.ca"> E-mail me </a> for the
 __What Are My Responsibilities?__ By slightly popular demand, everyone will take turns selecting readings (see the schedule below), and for the most part, everyone will be expected to present a figure and participate in subsequent discussion. 
 
 # Schedule
-We will meet bi-weekly/fortnightly Thursday at 10:00-11:00am.
+We will meet bi-weekly/fortnightly Thursday at 10:00-11:00am PST.
 
 | Date | Paper Picker | Paper |
 | :---------------- | :---------------- | :------------------------------------- |
