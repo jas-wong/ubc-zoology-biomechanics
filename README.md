@@ -24,3 +24,5 @@ We will meet bi-weekly/fortnightly Thursday at 10:00-11:00am PST.
 | Mar 17 2022 | Francesca | <a href="/ubc-zoology-biomechanics/papers/Terrestrial acclimation and exercise lead to bone functional response in Polypterus senegalus.pdf">Terrestrial acclimation and exercise lead to bone functional response in Polypterus senegalus pectoral fins (Du and Standen, 2020)</a> |
 | Apr 7 2022 | Tony | <a href="/ubc-zoology-biomechanics/papers/Novel flight style and light wings boost flight performance of tiny beetles.pdf">Novel flight style and light wings boost flight performance of tiny beetles (Farsienkov et al., 2022)</a> |
 | Apr 21 2022 | Jolan | <a href="/ubc-zoology-biomechanics/papers/How octopus arm muscle contractile properties and anatomical organization contribute to arm functional specialization.pdf">How octopus arm muscle contractile properties and anatomical organization contribute to arm functional specialization (Zullo et al., 2022)</a> |
+| TBD | Jasmin | ? |
+| TBD | Fran | Reader et al. 2022 | 
