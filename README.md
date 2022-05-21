@@ -25,6 +25,6 @@ We will meet bi-weekly/fortnightly Tuesday at 10:00-11:00am PST.
 | Apr 7 2022 | Tony | <a href="/ubc-zoology-biomechanics/papers/Novel flight style and light wings boost flight performance of tiny beetles.pdf">Novel flight style and light wings boost flight performance of tiny beetles (Farsienkov et al., 2022)</a> |
 | Apr 21 2022 | Jolan | <a href="/ubc-zoology-biomechanics/papers/How octopus arm muscle contractile properties and anatomical organization contribute to arm functional specialization.pdf">How octopus arm muscle contractile properties and anatomical organization contribute to arm functional specialization (Zullo et al., 2022)</a> |
 | May 10 2022 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/Tunable stiffness enables fast and efficient swimming in fish-like robots.pdf">Tunable stiffness enables fast and efficient swimming in fish-like robots (Zhong et al., 2021)</a> |
-| TBD | Fran | <a href="/ubc-zoology-biomechanics/papers/Climbing parrots achieve pitch stability using forces and free
+| May 24 2022 | Fran | <a href="/ubc-zoology-biomechanics/papers/Climbing parrots achieve pitch stability using forces and free
 moments produced by axial–appendicular couples.pdf">Climbing parrots achieve pitch stability using forces and free
 moments produced by axial–appendicular couples (Reader et al., 2022)</a> |
