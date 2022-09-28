@@ -31,3 +31,4 @@ We will meet bi-weekly/fortnightly Tuesday at 10:00-11:00am PST.
 | Aug 2 2022 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/kempton2022optimization.pdf">Optimization of dynamic soaring in a flap-gliding seabird affects its large-scale distribution at sea (Kempton et al., 2022)</a> |
 | Aug 23 2022 | Fran | <a href="/ubc-zoology-biomechanics/papers/KleinHeerenbrink2022perching.pdf">Optimization of avian perching manoeuvres (KleinHeerenbrink et al., 2022)</a> |
 | Sep 28 2022 | Tony | <a href="/ubc-zoology-biomechanics/papers/steinhardt2021physical.pdf">A physical model of mantis shrimp for exploring the dynamics of ultrafast systems (Steinhardt et al., 2021)</a> |
+| Oct 21 2022 | Jolan | ? |
