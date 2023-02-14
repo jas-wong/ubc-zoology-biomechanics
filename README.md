@@ -34,3 +34,4 @@ We will meet bi-weekly/fortnightly Friday at 9:00-10:00am PST.
 | Oct 21 2022 | Jolan | <a href="/ubc-zoology-biomechanics/papers/cheney2022bats.pdf">Bats actively modulate membrane compliance to control camber and reduce drag (Cheney et al., 2022)</a> |
 | Nov 18 2022 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/palmer2022mechanics.pdf">The mechanics and interactions of electrically sensitive mechanoreceptive hair arrays of arthropods (Palmer et al., 2022)</a> |
 | Dec 8 2022 | Fran | <a href="/ubc-zoology-biomechanics/papers/krishnanwingbeat2022.pdf">The role of wingbeat frequency and amplitude in flight power (Krishnan et al., 2022)</a> |
+| Feb 24 2022, 8:30am PST | Tony | Rhino auklet paper |
