@@ -8,7 +8,7 @@ __How do I Join?__ <a href="mailto:jwong@zoology.ubc.ca"> E-mail me </a> for the
 __What Are My Responsibilities?__ By slightly popular demand, everyone will take turns selecting readings (see the schedule below), and for the most part, everyone will be expected to present a figure and participate in subsequent discussion. 
 
 # Schedule
-We will meet bi-weekly/fortnightly Friday at 9:00-10:00am PST.
+We will meet bi-weekly/fortnightly Friday at 8:30-9:30am PST.
 
 | Date | Paper Picker | Paper |
 | :---------------- | :---------------- | :------------------------------------- |
@@ -35,3 +35,4 @@ We will meet bi-weekly/fortnightly Friday at 9:00-10:00am PST.
 | Nov 18 2022 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/palmer2022mechanics.pdf">The mechanics and interactions of electrically sensitive mechanoreceptive hair arrays of arthropods (Palmer et al., 2022)</a> |
 | Dec 8 2022 | Fran | <a href="/ubc-zoology-biomechanics/papers/krishnanwingbeat2022.pdf">The role of wingbeat frequency and amplitude in flight power (Krishnan et al., 2022)</a> |
 | Feb 24 2022, 8:30am PST | Tony | Rhino auklet paper |
+| Mar 17 2022, 8:30am PST | everyone | flocking paper |
