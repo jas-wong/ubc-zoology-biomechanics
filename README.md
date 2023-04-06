@@ -35,4 +35,4 @@ We will meet bi-weekly/fortnightly Friday at 8:30-9:30am PST.
 | Nov 18 2022 | Jasmin | <a href="/ubc-zoology-biomechanics/papers/palmer2022mechanics.pdf">The mechanics and interactions of electrically sensitive mechanoreceptive hair arrays of arthropods (Palmer et al., 2022)</a> |
 | Dec 8 2022 | Fran | <a href="/ubc-zoology-biomechanics/papers/krishnanwingbeat2022.pdf">The role of wingbeat frequency and amplitude in flight power (Krishnan et al., 2022)</a> |
 | Feb 24 2023, 8:30am PST | Tony | Rhino auklet paper |
-| Apr 7 2023, 8:30am PST | everyone | flocking paper |
+| Apr 14 2023, 8:30am PST | everyone | flocking paper |
